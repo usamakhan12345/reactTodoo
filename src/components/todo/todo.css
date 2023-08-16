@@ -1,0 +1,19 @@
+.crossBtn{
+    border: none;
+    font-size: 20px;
+    color: white;
+}
+.inputText{
+    background-color: rgb(218, 218, 236);
+    color: black;
+    border-radius: 10px;
+}
+.todo{
+    position: absolute;
+    justify-content: center;
+    margin-right: 240px;
+}
+.crossBtn:hover{
+    color: red;
+    
+}
